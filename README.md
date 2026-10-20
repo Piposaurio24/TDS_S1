@@ -4,10 +4,6 @@ A song recommendation system built with unsupervised learning, for **Solemne 1**
 
 **Notebook:** `Solemne_1_TDS.ipynb`
 
-<!-- Add your Colab badge here, e.g.:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
--->
-
 ## Problem
 
 Spotify users say the platform's recommendations don't match the songs they have voted for or listened to. As a newly hired data scientist, the task is to build a recommender based on each person's tastes, using clustering or association techniques.
